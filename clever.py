@@ -7,7 +7,7 @@ api = Api(app)
 
 class Greeting (Resource):
     def get(self):
-        return 'Welcome to AnshuMirror! '
+        return 'Welcome to AnshuMirror!'
 
 api.add_resource(Greeting, '/') # Route_1
 app.run(host='0.0.0.0', port=os.environ.get('PORT', 8080))
