@@ -1,1 +1,1 @@
-./aria.sh; python3 -m bot
+./spider.sh; python3 -m bot
