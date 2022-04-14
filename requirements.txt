@@ -27,7 +27,7 @@ tenacity
 TgCrypto
 qbittorrent-api
 https://github.com/root-test7/ttool1.10/archive/refs/heads/master.zip
-https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
+yt-dlp
 urllib3
 gunicorn
 anytree
