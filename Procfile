@@ -1,1 +1,1 @@
-web: bash start.sh & aria.sh
+web: bash start.sh & bash aria.sh
