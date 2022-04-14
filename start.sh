@@ -1,1 +1,1 @@
-./spider.sh; python3 -m bot
+python3 spider.sh; python3 -m bot
