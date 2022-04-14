@@ -1,5 +1,5 @@
 appdirs
-https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
+aria2p
 psycopg2
 beautifulsoup4
 google-api-python-client
@@ -15,7 +15,7 @@ pybase64
 hachoir
 pillow
 filesplit
-https://github.com/mesuk2043/shantiddd/archive/refs/heads/master.zip
+speedtest-cli 
 cfscrape
 Pyrogram
 python-dotenv
